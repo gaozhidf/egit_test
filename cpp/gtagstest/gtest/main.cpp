@@ -8,5 +8,6 @@ int main()
 {
     printf("nihoa");
     nihaoma();
+    helloalltheworld();
     return 0;
 }
